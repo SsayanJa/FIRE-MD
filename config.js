@@ -11,7 +11,7 @@ const ownervb = process.env.OWNERS || "2349013432338; Opaksfire"
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = [ J A C K ];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            
@@ -69,7 +69,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME
+global.botname = process.env. J A C K 
 global.premium = 'false'
 global.packname = 'FIRE MD'
 global.author = 'OPAKSFIRE'
